@@ -1,3 +1,14 @@
+> Hi Scrimbassadors! Here’s a GitHub Profile README template you can use as a starting point to make your profile page look more fun and informative.
+>
+> A “Profile README” is a special repository named exactly the same as your GitHub username. The `README.md` from that repo appears at the top of your GitHub profile, so you can add a short bio, highlight projects, share additional links and whatever else you like. This is just a base template we recommend styling it how you please!
+>
+> If you’re new to this, GitHub’s official guide (what it is + how to set it up) is here:
+> https://docs.github.com/en/account-and-profile/how-tos/profile-customization/managing-your-profile-readme.
+>
+> A quick walkthrough of this template (what each section does + what to customize) is here:
+> <link>
+
+
 <p align="center">
   <img src="https://images.unsplash.com/photo-1650963310446-011fc6a28367?q=80&w=2832&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Header" width="100%" />
 </p>
