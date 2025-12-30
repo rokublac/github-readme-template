@@ -11,7 +11,7 @@ My current stack blends Vue/Nuxt or React with Tailwind on the UI side, while No
 Fun fact: I host a tiny Sunday “ship club” where friends drop unfinished side projects on a call until we demo something shippable.
 
 ### Connect with me
-[LinkedIn](https://scrimba.com) • [Scrimba](https://scrimba.com) • [Instagram](https://scrimba.com) • [Website](https://scrimba.com)
+[LinkedIn](https://scrimba.com) • [Scrimbassador](https://scrimba.com/scrimbassadors) • [Instagram](https://scrimba.com) • [Website](https://scrimba.com)
 
 ## Projects
 
